@@ -1,5 +1,5 @@
 # destroyer-ui
- cross-platform, customizable science fiction terminal emulator with advanced monitoring &amp; touchscreen support.
+ cross-platform, customizable terminal emulator with advanced monitoring &amp; touchscreen support.
 <p align="center">
   <br>
   <img alt="Logo" src="https://github.com/Meghal-kc/destroyer-ui/blob/main/logo.png">
@@ -16,7 +16,6 @@
   <a href="https://github.com/GitSquared/destroyer-ui/releases/download/v2.2.8/destroyer-UI-Linux-arm64-AppImage" target="_blank"><img alt="undefined" src="https://badgen.net/badge/Download/LinuxArm64/?color=orange&icon=terminal&label"></a>
   <a href="https://aur.archlinux.org/packages/destroyer-ui" target="_blank"><img alt="undefined" src="https://badgen.net/badge/AUR/Package/cyan"></a>
   <br>
-  <a href="https://github.com/GitSquared/destroyer-ui/releases/tag/v2.2.8"><strong><i>(Project archived oct. 18th 2021)</i></strong></a>
   <br><br><br>
 </p>
 
@@ -33,43 +32,14 @@ destroyer-UI is a fullscreen, cross-platform terminal emulator and system monito
   <em>Jump to: <br><a href="#features">Features</a> — <a href="#screenshots">Screenshots</a> — <a href="#qa">Questions & Answers</a> — <strong><a href="#how-do-i-get-it">Download</a></strong> — <a href="#featured-in">Featured In</a> — <a href="#useful-commands-for-the-nerds">Contributor Instructions</a> — <a href="#credits">Credits</a></em>
 </p>
 
-## Sponsor
-
-**Want to help support my open-source experiments and learn some cool JavaScript tricks at the same time?**
-
-Click the banner below and sign up to **Bytes**, the only newsletter cool enough to be recommended by destroyer-UI.
-
-[![Bytes by UI.dev](media/sponsor-uidev-bytes.jpg)](https://ui.dev/bytes/?r=gabriel)
 
 ## Features
 - Fully featured terminal emulator with tabs, colors, mouse events, and support for `curses` and `curses`-like applications.
 - Real-time system (CPU, RAM, swap, processes) and network (GeoIP, active connections, transfer rates) monitoring.
 - Full support for touch-enabled displays, including an on-screen keyboard.
 - Directory viewer that follows the CWD (current working directory) of the terminal.
-- Advanced customization using themes, on-screen keyboard layouts, CSS injections. See the [wiki](https://github.com/GitSquared/destroyer-ui/wiki) for more info.
-- Optional sound effects made by a talented sound designer for maximum hollywood hacking vibe.
-
-## Screenshots
-![Default screenshot](media/screenshot_default.png)
-
-_[neofetch](https://github.com/dylanaraps/neofetch) on destroyer-UI 2.2 with the default "tron" theme & QWERTY keyboard_
-
-![Blade screenshot](media/screenshot_blade.png)
-
-_Checking out available themes in [destroyer's config dir](https://github.com/GitSquared/destroyer-ui/wiki/userData) with [`ranger`](https://github.com/ranger/ranger) on destroyer-UI 2.2 with the "blade" theme_
-
-![Disrupted screenshot](media/screenshot_disrupted.png)
-
-_[cmatrix](https://github.com/abishekvashok/cmatrix) on destroyer-UI 2.2 with the experimental "tron-disrupted" theme, and the user-contributed DVORAK keyboard_
-
-![Horizon screenshot](media/screenshot_horizon.png)
-
-_Editing destroyer-UI source code with `nvim` on destroyer-UI 2.2 with the custom [`horizon-full`](https://github.com/GitSquared/horizon-destroyer-theme) theme_
 
 
-Thanks! If you feel like it, you can [follow me on Twitter](https://gaby.dev/twitter) to hear about new stuff I'm making.
-
-<img width="220" src="https://78.media.tumblr.com/35d4ef4447e0112f776b629bffd99188/tumblr_mk4gf8zvyC1s567uwo1_500.gif" />
 
 
 
