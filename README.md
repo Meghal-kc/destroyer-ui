@@ -2,7 +2,7 @@
  cross-platform, customizable science fiction terminal emulator with advanced monitoring &amp; touchscreen support.
 <p align="center">
   <br>
-  <img alt="Logo" src="media/logo.png">
+  <img alt="Logo" src="[media/logo.png](https://github.com/Meghal-kc/destroyer-ui/blob/main/logo.png)">
   <br><br>
   <a href="https://lgtm.com/projects/g/GitSquared/destroyer-ui/context:javascript"><img alt="undefined" src="https://img.shields.io/lgtm/grade/javascript/g/GitSquared/destroyer-ui.svg?logo=lgtm&logoWidth=18"/></a>
   <br>
